@@ -1,7 +1,7 @@
 # Sudoku_Majesty 
 Main impovements compared to https://github.com/Balman123/Sudoku/blob/main/main_logic.cpp  
-vector - used instead of array to fix too many initializer values error that occurs while trying to add mulptiple choices of array in Visual Studio. 
-switch – used to provide a choice for the user whether to type manually or choose prepared Sudoku. 
+Vector - used instead of array to fix too many initializer values error that occurs while trying to add multiple choices of array in Visual Studio. 
+Switch - used to provide a choice for the user whether to type manually or choose prepared Sudoku. 
 
 
 (!) Main functions 
