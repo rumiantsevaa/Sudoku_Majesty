@@ -1,5 +1,5 @@
 # Sudoku_Majesty 
-<vector> - used instead of array to fix too many initializer values error.
+vector - used instead of array to fix too many initializer values error.
 switch – used to provide a choice for user whether to type manually or choose prepared Sudoku. 
 
 
