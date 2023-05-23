@@ -1,6 +1,7 @@
 # Sudoku_Majesty 
-vector - used instead of array to fix too many initializer values error.
-switch – used to provide a choice for user whether to type manually or choose prepared Sudoku. 
+Main impovements compared to https://github.com/Balman123/Sudoku/blob/main/main_logic.cpp  
+vector - used instead of array to fix too many initializer values error that occurs while trying to add mulptiple choices of array in Visual Studio. 
+switch – used to provide a choice for the user whether to type manually or choose prepared Sudoku. 
 
 
 (!) Main functions 
@@ -19,5 +20,5 @@ solveSudoku() : Function for solving Sudoku by substitution method.
 8.	Recursive call to solve the rest of the Sudoku
 9.	If the current substitution does not lead to a solution, cancel it
 10.	Provide choice to user with case switch. 
-11.	Print Sudoku, display solution.
+11.	Display solution or results.
 
